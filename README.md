@@ -117,7 +117,7 @@ vendas/
 ## 👩‍💻 Autora
 
 Kátia Medeiros  
-📊 Cientista de Dados
+📊 Cientista de Dados | Análise de Dados e Insights de Negócio
 
-📫 Contato: kmedeirostecnologia@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/katiadatasciences
+🔗 LinkedIn: https://www.linkedin.com/in/katiadatasciences  
+💻 GitHub: https://github.com/KatiaMedeirosDataScientist
